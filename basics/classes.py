@@ -1,6 +1,10 @@
 class Person:
 
+  # class level attribute
+  isHuman = True
+
   def __init__(self, name, age):
+    # instance attributes
     self.name = name
     self.age = age
   
@@ -13,3 +17,6 @@ person = Person('sean', 30)
 print(f'name: {person.name}')
 
 person.eat_food('meat')
+
+# class level attribute
+print(Person.isHuman)
