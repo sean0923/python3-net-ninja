@@ -21,4 +21,10 @@ so need to wrap with list()
 again
 list(filter(function, list))
 
+### 24 Lambdas
+dont need to define function
+you can just use lambda as inline function
 
+lambda => inline anonymous function
+
+ex) some_var = list(map(lambda a: a * 2, [1, 2, 3]))
