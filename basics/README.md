@@ -13,3 +13,5 @@ There are instance & class level attribute and methos
 If you want to change item in list (similar to .map in js)
 Not something that you have to use but sometime nice to use
 
+## 22 Maps
+
