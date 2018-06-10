@@ -9,3 +9,7 @@ There are instance & class level attribute and methos
 
 ### 20 Bar Tab Calculator (Grocery Calculator)
 
+### 21 List Comprehensions
+If you want to change item in list (similar to .map in js)
+Not something that you have to use but sometime nice to use
+
