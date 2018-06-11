@@ -33,3 +33,7 @@ ex) some_var = list(map(lambda a: a * 2, [1, 2, 3]))
 Can decorate any function with decorator
 
 ### 26 Reading Files
+- one way require open and close file
+- 2nd way - don't have to close file (with ... as <filename>)
+
+once file is read need to move cursor back to 0 --> <filename>.seek(0)
