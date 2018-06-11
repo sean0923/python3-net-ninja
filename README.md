@@ -42,4 +42,4 @@ once file is read need to move cursor back to 0 --> <filename>.seek(0)
 'w' for write --> with open(file_path, 'w') as write_file:
 'a' for append --> with open(file_path, 'a') as write_file:
 
-### 28 Lorem Ipsum Generator
+### 28 Lorem Ipsum Generator (fruit tool generator)
