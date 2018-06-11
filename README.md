@@ -37,3 +37,5 @@ Can decorate any function with decorator
 - 2nd way - don't have to close file (with ... as <filename>)
 
 once file is read need to move cursor back to 0 --> <filename>.seek(0)
+
+### 27 Writing Files 
