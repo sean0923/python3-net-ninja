@@ -31,3 +31,5 @@ ex) some_var = list(map(lambda a: a * 2, [1, 2, 3]))
 
 ### 25 Decorators
 Can decorate any function with decorator
+
+### 26 Reading Files
